@@ -1,1 +1,1 @@
-# salary-certificate
+# salary-certificate.c
